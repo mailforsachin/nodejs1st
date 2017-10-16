@@ -1,0 +1,24 @@
+{
+  "name": "nodejs1st",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailforsachin/nodejs1st.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailforsachin/nodejs1st/issues"
+  },
+  "homepage": "https://github.com/mailforsachin/nodejs1st#readme"
+}
